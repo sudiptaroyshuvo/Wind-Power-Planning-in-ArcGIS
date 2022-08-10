@@ -1,1 +1,2 @@
 # Wind-Power-Planning-in-ArcGIS
+This repo contains both theoritical framework and application of wind power in Bavaria. In the theoritical frame work different planning methods were discussed. Application of the planning was done in the ArcGIS 10x environment. Rules of implementing wind power systems of Bavaria, Germany and European Union was considered in order to execute this project. Also a visibility analysis was performed in ArcGIS pro. 
